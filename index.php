@@ -7,5 +7,3 @@
  */
 
 echo 'Hello world!';
-
-exit;
