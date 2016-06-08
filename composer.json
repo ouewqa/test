@@ -1,0 +1,11 @@
+{
+    "name": "yuyj/test",
+    "description": "This is a test.",
+    "authors": [
+        {
+            "name": "余云建",
+            "email": "yuyj@mysoft.com.cn"
+        }
+    ],
+    "require": {}
+}
