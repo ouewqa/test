@@ -6,4 +6,4 @@
  * Time: 下午4:30
  */
 
-echo date('Y-m-d');
+echo date('Y-m-d H:i:s');
