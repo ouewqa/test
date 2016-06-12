@@ -7,3 +7,5 @@
  */
 
 echo date('Y-m-d H:i:s');
+
+echo date('Y-m-d', strtotime('-1 day'));
